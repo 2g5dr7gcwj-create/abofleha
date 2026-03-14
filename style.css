@@ -1,0 +1,5 @@
+body { font-family: 'Cairo', sans-serif; }
+.btn-blue { background: linear-gradient(135deg, #1e40af, #3b82f6); color: white; transition: 0.3s; }
+.btn-red { background: linear-gradient(135deg, #991b1b, #ef4444); color: white; transition: 0.3s; }
+.card-active { border: 2px solid #ef4444; background: rgba(239, 68, 68, 0.1); }
+button:active { transform: scale(0.95); }
